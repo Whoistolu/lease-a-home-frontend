@@ -4,19 +4,6 @@
 >
 >Here is a [link](https://github.com/chaw-bot/lease-a-home-API/tree/main) to the API repo.
 
-## Kanban board
-> - [Link](https://github.com/chaw-bot/lease-a-home-API/projects/1) to the Kanban board.
-> - [Link](https://user-images.githubusercontent.com/58692590/155709772-22e11087-de10-4eb6-9b09-dcdd13aa49e6.png
-) the screenshot of the initial state of your Kanban board.
-> - [Link](https://github.com/HENRYKC24/lease-a-home-frontend/tree/main) to the GH repository.
-> - [Link](https://duls-lease-home.herokuapp.com/) to the live version.
->
->This project consists four members:
->- [Abdul](@wuyepabdul)
->- [Chawanzi](@chaw-bot)
->- [Henry](@HENRYKC24)
->- [Toluwase](@Whoistolu)
-
 ## Screenshots
 > |Home/Apartments Page|Lease Form| Leases Page |
 > |--------------|----------------|----------------|
@@ -46,27 +33,12 @@ npm install
 ```
 npm start
 ```
-# 👤👤 **Authors**
-
-- **Chawanzi Ng'uni**
-  - GitHub: [@chaw-bot](https://github.com/chaw-bot)
-  - Twitter: [@chawfronaut](https://twitter.com/chawfronaut)
-  - LinkedIn: [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/) 
-
-- **Henry Kc**
-  - GitHub: [@githubhandle](https://github.com/HENRYKC24)
-  - Twitter: [@twitterhandle](https://twitter.com/henrykc24)
-  - LinkedIn: [LinkedIn](https://linkedin.com/in/henry-kc)
+# 👤👤 **Author**
 
 - **Ajise Toluwase**
   - GitHub: [@githubhandle](https://github.com/Whoistolu)
   - Twitter: [@twitterhandle](https://twitter.com/Littletolu)
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/toluwase-ajise-9b40411b2/)
-
-- **Abdul Wuyep**
-  - GitHub: [@wuyepabdul](https://github.com/wuyepabdul)
-  - Twitter: [@AbdulWuyep](https://twitter.com/AbdulWuyep)
-  - LinkedIn: [Abdul Wuyep](https://www.linkedin.com/in/abdul-wuyep/)
 
 
 
@@ -74,7 +46,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/chaw-bot/lease-a-home-frontend/issues).
+Feel free to check the [issues page]().
 
 # Acknowledgements
 Original design idea by Gregoire Vella on Behance.
